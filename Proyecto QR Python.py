@@ -1,5 +1,6 @@
 import random
 import pyqrcode
+import png
 
 detalleCompras = ([],[],[],[],[],[])
 
@@ -122,5 +123,6 @@ def main():
       eliminarPedido()
     opcion = menuOpciones()    
   print("Gracias por usar el sistema") 
+
 
 main()
