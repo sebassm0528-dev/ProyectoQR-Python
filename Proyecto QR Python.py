@@ -1,6 +1,5 @@
 import random
 import pyqrcode
-import png
 
 detalleCompras = ([],[],[],[],[],[])
 
@@ -126,3 +125,4 @@ def main():
 
 
 main()
+
